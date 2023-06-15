@@ -1,0 +1,6 @@
+/server/build/
+/ubus_fd_client/build/
+*.vpw
+*.vpwhistu
+*.vtg
+*.vpj
